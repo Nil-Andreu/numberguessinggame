@@ -1,1 +1,0 @@
-The aim of the program is to guess the number that the program has come up with.
